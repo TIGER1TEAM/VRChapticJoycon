@@ -1,1 +1,4 @@
 # VRChapticJoycon
+
+Have you ever wanted to have real phantom pain?
+Have you ever seen someone with one of those groovy haptic suits but got fomo. Well now you can! With just a few of those cool Nintendo Switch JoyCons and some elstic straps, you too can have a haptic system. Its easy! Just setup the code, add contact recevers to your avatar, and thats it. (detailed instructions included in code) With support of up to 6 controllers by default (and unlimited bc i never tested it) and 4 or more haptic profiles, you can feel touch inside VRChat. Setup is simple and all you need is joycons, a pc, some sort of elastic strap, a custom made avatar, Visual Studio 2022, and thats it!
